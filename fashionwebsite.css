@@ -1,0 +1,240 @@
+.box{
+    border:1px solid rgb(54, 10, 177);
+    background-color:rgb(0, 0, 0);
+    height: 30px;
+}
+
+ul{
+    float: left;
+    color:rgb(219, 199, 18);
+}
+ul li{
+    margin-top: -10x;
+    float: left;
+    position: relative;
+    left:300%;
+    width:100px;
+    font-size:14px;
+    font-family:'Times New Roman', Times, serif;
+    list-style-type:none;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color:rgb(151, 5, 18);
+}
+
+
+h5{
+    margin-top: 1px;
+    color: rgb(136, 6, 64);
+    margin: 7px 12 px;
+    position: relative;
+    left:-21%;
+    font-family:'Times New Roman', Times, serif;
+    font-size:19px;
+    font-weight:bold;
+}
+
+.subbox{
+    border: 1px solid transparent;
+    background-color: rgb(2, 12, 34);
+    height: 50px;
+}
+
+ol{
+    float: left;
+    
+}
+ol li{
+    float:left;
+    width: 90px;
+    position: relative;
+    left: 25%;
+    list-style-type: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+ol li a{
+    text-decoration: none;
+    color:rgb(223, 121, 121);
+}
+
+ol li a:hover{
+    border-bottom: 4px solid rgb(241, 236, 236);
+}
+
+.fa-search{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color:rgb(20, 16, 18);
+}
+
+.fa-user{
+     position: absolute;
+    left: 85%;
+    top: 9%;
+    color:rgb(235, 221, 221);
+}
+.fa-shopping-cart{
+    position: absolute;
+    left: 88%;
+    top: 9%;
+    color:rgb(3, 6, 17);
+    width: 25px;
+    height: -30px;
+    border-radius: 100px;
+    background-color: rgb(199, 18, 48);
+    margin-top: -2px;
+    margin-left: -4px;
+    text-align: left;
+}
+
+h3{
+    color:rgb(21, 161, 28);
+    position: absolute;
+    left: 88.8%;
+    top:4%;
+    width: 18px;
+    height: -50px;
+    border-radius: 100px;
+    text-align: center;
+    font-family:''Times New Roman', Times, serif;
+}
+
+h2{
+    position: relative;
+    left: -37%;
+    text-transform: uppercase;
+    font-family:cursie;
+    margin-top:4px;
+    font-weight:bolder;
+    color: rgb(202, 16, 93);
+}
+font{
+    color: rgb(226, 21, 117);
+}
+.cover img{
+    background-size: cover;
+    height: 530px;
+    width: 1328px;
+}
+.text{
+    position: absolute;
+    top: 30%;
+    left: 7%;
+}
+
+h1{
+    font-size: 70px;
+    font-family:'''Times New Roman', Times, serif;
+    text-transform: capitalize; 
+    width: 460px;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 72px;
+}
+
+h4{
+    position: absolute;
+    top:-4%;
+    font-size: 20px;
+    font-family:'''Times New Roman', Times, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+form input[type="submit"]{
+    position: absolute;
+    top: 86%;
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: rgb(231, 52, 105);
+    border:none;
+    color:white;
+    font-family:'''Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
+
+form input[type="submit"]:hover{
+    background-color: rgb(90, 82, 197);
+}
+
+.img1{
+    position: absolute;
+    left: 10%;
+    top:100%;
+    border: 1px solid rgb(8, 8, 8);
+    box-shadow: 1px 2px 4px;
+}
+h6{
+    color:rgb(15, 13, 13);
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    border:1px solid rgb(19, 18, 18);
+    width: 200px;
+    font-size: 40px;
+    font-family:'''Times New Roman', Times, serif;
+    background-color: rgb(168, 171, 171);
+    font-weight: normal;
+    text-align: center;
+}
+.img1:hover{
+    box-shadow: 1px 3px 9px;
+}
+
+.img2{
+    position: absolute;
+    left: 40%;
+    top:100%;
+    border: 1px solid rgb(19, 17, 17);
+    box-shadow: 1px 2px 4px;
+}
+.img2:hover{
+    box-shadow: 1px 3px 9px;
+}
+
+h{
+    color:rgb(112, 12, 12);
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    border:1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family:'''Times New Roman', Times, serif;
+    background-color: rgb(226, 198, 198);
+    font-weight: normal;
+    text-align: center;
+}
+
+.img3{
+    position: absolute;
+    left: 70%;
+    top:100%;
+    border: 1px solid rgb(14, 13, 13);
+    box-shadow: 1px 2px 4px;
+}
+
+.img3:hover{
+    box-shadow: 1px 3px 9px;
+}
+
+t{
+    color:rgba(236, 238, 240, 0.829);
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    border:1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(16, 3, 46);
+    font-weight: normal;
+    text-align: center;
+}
+
+
